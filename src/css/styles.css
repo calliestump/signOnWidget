@@ -1,3 +1,12 @@
 body {
   background-color:rgb(211, 228, 228);
+  text-align: center;
 }
+
+.container {
+  padding: 3%;
+}
+h1 {
+  margin: 2em 0;
+}
+
